@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/L3Vca26EaTIEU/giphy.gif?cid=ecf05e47m27mf83502wojstedmrtl7t9pd00nx6fa14vvema&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
+  <img style="width : 100%;" src="https://media1.giphy.com/media/L3Vca26EaTIEU/giphy.gif?cid=ecf05e47m27mf83502wojstedmrtl7t9pd00nx6fa14vvema&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Hashan Lakruwan 👩‍💻</h1>
 <h3 align="center">BSc (Hons) Software Engineering Undergraduate</h3>
