@@ -1,4 +1,4 @@
-![MasterHead align="center"](https://media1.giphy.com/media/L3Vca26EaTIEU/giphy.gif?cid=ecf05e47m27mf83502wojstedmrtl7t9pd00nx6fa14vvema&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<h1 align="center">![MasterHead](https://media1.giphy.com/media/L3Vca26EaTIEU/giphy.gif?cid=ecf05e47m27mf83502wojstedmrtl7t9pd00nx6fa14vvema&ep=v1_gifs_search&rid=giphy.gif&ct=g)</h1>
 <h1 align="center">Hi 👋, I'm Hashan Lakruwan 👩‍💻</h1>
 <h3 align="center">BSc (Hons) Software Engineering Undergraduate</h3>
 <!-- <img aling="center" alt="Developer" width="900"   height="140" hi src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
