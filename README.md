@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hashan-lakruwan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hashan-lakruwan/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/hashanlakruwan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hashanlakruwan1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclg7xwi_ckte_cak7kwaksg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclg7xwi_ckte_cak7kwaksg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hlcreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hlcreations" height="30" width="40" /></a>
 <a href="https://discord.gg/hashan0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hashan0222" height="30" width="40" /></a>
 </p>
 
