@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/pPNnd3K/gh-banenr2.png">
+![gh banenr2](https://github.com/user-attachments/assets/971d5092-195b-4a93-a2b7-5050055f3178)
 
 </div>
 <div align="center">
