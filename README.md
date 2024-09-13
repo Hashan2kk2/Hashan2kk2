@@ -1,7 +1,11 @@
-![MasterHead](https://i.ibb.co/pPNnd3K/gh-banenr2.png)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&pause=1000&color=7678ED&width=435&lines=Hi!+I'm+Hashan+Lakruwan;BSc+(Hons)+Software+Engineering)](https://git.io/typing-svg)
+![MasterHead](https://i.ibb.co/pPNnd3K/gh-banenr2.png)
+
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&pause=1000&color=7678ED&center=true&vCenter=true&width=435&lines=Hi!+I'm+Hashan+Lakruwan;BSc+(Hons)+Software+Engineering)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hashan2kk2&label=Profile%20views&color=0d1117&style=for-the-badge" alt="Hashan2kk2" /> </p>
 
