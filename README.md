@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://i.ibb.co/pPNnd3K/gh-banenr2.png)
+<img src="https://i.ibb.co/pPNnd3K/gh-banenr2.png">
 
 </div>
 <div align="center">
